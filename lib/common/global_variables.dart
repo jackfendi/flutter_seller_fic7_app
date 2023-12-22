@@ -1,4 +1,3 @@
 class GlobalVariables {
-  // static const baseUrl = 'https://flutterdev.my.id';
-  static const baseUrl = 'https://c9f5-182-253-126-17.ngrok.io';
+  static const baseUrl = 'https://b542-2404-8000-1028-10fb-d5f5-6347-3891-7ac.ngrok-free.app';
 }
